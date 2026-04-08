@@ -1,5 +1,5 @@
 ## Developed by Do Hyeon Cha, MD, MS (Yonsei University College of Medicine, KAIST)
-## Pusan Nat'l Univ School of Dentistry: Idea pitching, data curation, dental age auxiliary confirmation.
+## Pusan Nat'l Univ School of Dentistry (Yuji Ko, DDS): Idea pitching, data curation, dental age auxiliary confirmation.
 
 Scripts, models, data for the medical AI competition
 
