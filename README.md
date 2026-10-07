@@ -7,6 +7,9 @@
 
 
 
+
+
+
 Scripts, models, data for the medical AI competition
 
 1. "raw" folder consists of a CNN-FCL regression model with raw augmented-images for training
