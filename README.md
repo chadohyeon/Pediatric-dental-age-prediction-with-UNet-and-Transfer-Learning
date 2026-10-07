@@ -1,6 +1,8 @@
 - Developed by Dr. Do Hyeon Cha, MD, MS (Yonsei University College of Medicine, KAIST)
 - Pusan Nat'l Univ School of Dentistry (Dr. Yuji Ko, DDS): Idea pitching, data curation, dental age auxiliary confirmation.
 
+
+
 <img width="1274" height="837" alt="teethAge" src="https://github.com/user-attachments/assets/3c0c1956-0e17-453c-8884-3c8123d680a7" />
 
 
