@@ -4,6 +4,7 @@
 <img width="1274" height="837" alt="teethAge" src="https://github.com/user-attachments/assets/3c0c1956-0e17-453c-8884-3c8123d680a7" />
 
 
+
 Scripts, models, data for the medical AI competition
 
 1. "raw" folder consists of a CNN-FCL regression model with raw augmented-images for training
